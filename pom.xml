@@ -13,6 +13,8 @@
         <java.target>11</java.target>
         <selenide.version>6.2.0</selenide.version>
         <junit.version>4.13</junit.version>
+        <maven.compiler.source>11</maven.compiler.source>
+        <maven.compiler.target>11</maven.compiler.target>
     </properties>
 
     <dependencies>
